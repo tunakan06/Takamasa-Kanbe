@@ -1,0 +1,38 @@
+﻿  Animation.cpp
+  BinaryFile.cpp
+  Camera.cpp
+Camera.cpp(24): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+Camera.cpp(25): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+Camera.cpp(50): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+Camera.cpp(51): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+Camera.cpp(58): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+  Character.cpp
+  Enemy.cpp
+Enemy.cpp(40): warning C4101: 'ObjectCollModel': ローカル変数は 1 度も使われていません。
+Enemy.cpp(38): warning C4101: 'StageCOllModel': ローカル変数は 1 度も使われていません。
+Enemy.cpp(37): warning C4101: 'CollPoly': ローカル変数は 1 度も使われていません。
+Enemy.cpp(36): warning C4101: 'i': ローカル変数は 1 度も使われていません。
+Enemy.cpp(35): warning C4101: 'HeadPosition': ローカル変数は 1 度も使われていません。
+Enemy.cpp(34): warning C4101: 'PlayerHeadPosition': ローカル変数は 1 度も使われていません。
+  Game.cpp
+  GameFrame.cpp
+GameFrame.cpp(78): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+GameFrame.cpp(92): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+  GameMain.cpp
+  Input.cpp
+  Monster.cpp
+Monster.cpp(73): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+Monster.cpp(74): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+Monster.cpp(55): warning C4101: 'a': ローカル変数は 1 度も使われていません。
+  Player.cpp
+  Sound.cpp
+  Stage.cpp
+  TextParam.cpp
+  Title.cpp
+  Weapon.cpp
+  WinMain.cpp
+  コード生成しています。
+  All 66 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  Win32Project15.vcxproj -> C:\Users\Takamasa Kam\Documents\Visual Studio 2015\Projects\Win32Project15-3\Release\Win32Project15.exe
+  Win32Project15.vcxproj -> C:\Users\Takamasa Kam\Documents\Visual Studio 2015\Projects\Win32Project15-3\Release\Win32Project15.pdb (Full PDB)

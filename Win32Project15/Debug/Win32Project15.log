@@ -1,0 +1,4 @@
+﻿  Player.cpp
+c:\users\takamasa kambe\documents\visual studio 2017\projects\win32project15-3\win32project15\player.cpp(299): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  Win32Project15.vcxproj -> C:\Users\Takamasa Kambe\Documents\Visual Studio 2017\Projects\Win32Project15-3\Debug\Win32Project15.exe
+  Win32Project15.vcxproj -> C:\Users\Takamasa Kambe\Documents\Visual Studio 2017\Projects\Win32Project15-3\Debug\Win32Project15.pdb (Partial PDB)

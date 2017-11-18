@@ -1,0 +1,17 @@
+﻿  WinMain.cpp
+c:\users\takamasa kam\documents\visual studio 2015\projects\win32project15\win32project15\title.h(4): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  Title.cpp
+c:\users\takamasa kam\documents\visual studio 2015\projects\win32project15\win32project15\title.h(4): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  Stage.cpp
+c:\users\takamasa kam\documents\visual studio 2015\projects\win32project15\win32project15\stage.h(4): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  GameMain.cpp
+c:\users\takamasa kam\documents\visual studio 2015\projects\win32project15\win32project15\character.h(4): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  GameFrame.cpp
+c:\users\takamasa kam\documents\visual studio 2015\projects\win32project15\win32project15\title.h(4): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  Game.cpp
+c:\users\takamasa kam\documents\visual studio 2015\projects\win32project15\win32project15\title.h(4): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  Character.cpp
+c:\users\takamasa kam\documents\visual studio 2015\projects\win32project15\win32project15\character.h(4): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  Camera.cpp
+c:\users\takamasa kam\documents\visual studio 2015\projects\win32project15\win32project15\camera.h(4): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  コードを生成中...
