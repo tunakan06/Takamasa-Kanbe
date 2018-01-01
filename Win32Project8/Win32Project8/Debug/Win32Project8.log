@@ -1,0 +1,22 @@
+﻿  teki.cpp
+c:\users\takamasa kam\documents\visual studio 2015\projects\win32project8\win32project8\teki.h(14): warning C4290: C++ の例外の指定は無視されます。関数が __declspec(nothrow) でないことのみ表示されます。
+c:\users\takamasa kam\documents\visual studio 2015\projects\win32project8\win32project8\teki.cpp(3): warning C4290: C++ の例外の指定は無視されます。関数が __declspec(nothrow) でないことのみ表示されます。
+c:\users\takamasa kam\documents\visual studio 2015\projects\win32project8\win32project8\teki.cpp(34): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  main.cpp
+c:\users\takamasa kam\documents\visual studio 2015\projects\win32project8\win32project8\jiki.h(15): warning C4290: C++ の例外の指定は無視されます。関数が __declspec(nothrow) でないことのみ表示されます。
+c:\users\takamasa kam\documents\visual studio 2015\projects\win32project8\win32project8\teki.h(14): warning C4290: C++ の例外の指定は無視されます。関数が __declspec(nothrow) でないことのみ表示されます。
+c:\users\takamasa kam\documents\visual studio 2015\projects\win32project8\win32project8\main.cpp(9): warning C4290: C++ の例外の指定は無視されます。関数が __declspec(nothrow) でないことのみ表示されます。
+c:\users\takamasa kam\documents\visual studio 2015\projects\win32project8\win32project8\main.cpp(14): warning C4290: C++ の例外の指定は無視されます。関数が __declspec(nothrow) でないことのみ表示されます。
+  jiki.cpp
+c:\users\takamasa kam\documents\visual studio 2015\projects\win32project8\win32project8\jiki.h(15): warning C4290: C++ の例外の指定は無視されます。関数が __declspec(nothrow) でないことのみ表示されます。
+c:\users\takamasa kam\documents\visual studio 2015\projects\win32project8\win32project8\jiki.cpp(3): warning C4290: C++ の例外の指定は無視されます。関数が __declspec(nothrow) でないことのみ表示されます。
+c:\users\takamasa kam\documents\visual studio 2015\projects\win32project8\win32project8\jiki.cpp(42): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\takamasa kam\documents\visual studio 2015\projects\win32project8\win32project8\jiki.cpp(61): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  gameframe.cpp
+c:\users\takamasa kam\documents\visual studio 2015\projects\win32project8\win32project8\gameframe.cpp(133): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  animdraw.cpp
+c:\users\takamasa kam\documents\visual studio 2015\projects\win32project8\win32project8\animdraw.cpp(4): warning C4018: '>=': signed と unsigned の数値を比較しようとしました。
+c:\users\takamasa kam\documents\visual studio 2015\projects\win32project8\win32project8\animdraw.cpp(14): warning C4018: '>=': signed と unsigned の数値を比較しようとしました。
+  コードを生成中...
+  Win32Project8.vcxproj -> C:\Users\Takamasa Kam\Documents\Visual Studio 2015\Projects\Win32Project8\Debug\Win32Project8.exe
+  Win32Project8.vcxproj -> C:\Users\Takamasa Kam\Documents\Visual Studio 2015\Projects\Win32Project8\Debug\Win32Project8.pdb (Partial PDB)
